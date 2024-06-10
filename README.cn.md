@@ -1,4 +1,6 @@
-# 内核说明
+# 出血边缘内核编译器
+
+## 内核说明
 
 查看英文说明 | [View English description](README.md)
 

@@ -1,4 +1,6 @@
-# Kernel Description
+# Bleeding Edge Kernel Builder
+
+## Kernel Description
 
 View Chinese description  |  [查看中文说明](README.cn.md)
 
